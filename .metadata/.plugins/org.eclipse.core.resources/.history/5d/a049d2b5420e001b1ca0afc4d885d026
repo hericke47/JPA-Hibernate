@@ -1,0 +1,8 @@
+package dominio;
+
+public class Pessoa {
+
+	private Integer id;
+	private STring nome;
+	private String 
+}
